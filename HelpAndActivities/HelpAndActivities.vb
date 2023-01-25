@@ -1,6 +1,6 @@
 Imports System
 
-Module Program
+Module HelpAndActivities
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
     End Sub
